@@ -51,11 +51,6 @@ rainy,75.0,80.0,false,yes
 6) In that dialog box there are four modes, click on explorer.
 7) Explorer shows many options. In that click on ‘open file’ and select the arff file
 8) Click on edit button which shows employee table on weka.
-
-### OUTPUT:
-
-
-
 ### PREPROCESSING
 ### Procedure:
 #### 1) Add -> Pre-Processing Technique:
@@ -114,7 +109,7 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 <img width="1771" height="868" alt="Screenshot 2026-04-18 135643" src="https://github.com/user-attachments/assets/c87be703-9a7b-4080-8220-140ad8350058" />
-![Uploading Screenshot 2026-04-18 140549.png…]()
+<img width="1853" height="975" alt="Screenshot 2026-04-18 140549" src="https://github.com/user-attachments/assets/b7932cb5-e9d9-4705-b2f6-8bdd2ca33604" />
 
 
 ### RESULT: 
